@@ -1,7 +1,7 @@
 # Shape_Analysis
 This suite is written to work with shape analysis parameters. You can simply download it as a Zip file and check the codes:
 
-Or make new folder `mkdir ShapeAnalysis`, change your directory with `cd` and use this command in git prompt:
+Or change your directory with `cd` ,make new folder `mkdir ShapeAnalysis` and use this command in git prompt:
 ```
 git clone https://github.com/yasharsajadi/Shape_Analysis.git
 ```
