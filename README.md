@@ -1,8 +1,8 @@
 # Shape_Analysis
-Download this package and follow the codes in MATLAB.
+This suite is written to work with shape analysis parameters. You can simply download it as a Zip file and check the codes.
 
-How to write this series with MATLAB?
+If you want to watch the coding of this set step by step in video form:
 
-https://www.youtube.com/watch?v=MHBxFC4q0GU&list=PLhiMtjT3auc9PZC6tQ1bi6AbNfMzcEwHZ&index=1&t=679s
+[Shape Analysis PlayList](https://www.youtube.com/watch?v=MHBxFC4q0GU&list=PLhiMtjT3auc9PZC6tQ1bi6AbNfMzcEwHZ&index=1&t=679s)
 
-and follow the playlist.
+These videos are in Persian, soon I will present them in English.
