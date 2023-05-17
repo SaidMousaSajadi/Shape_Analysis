@@ -3,6 +3,6 @@ This suite is written to work with shape analysis parameters. You can simply dow
 
 If you want to watch the coding of this set step by step in video form:
 
-[Shape Analysis PlayList](https://www.youtube.com/watch?v=MHBxFC4q0GU&list=PLhiMtjT3auc9PZC6tQ1bi6AbNfMzcEwHZ&index=1&t=679s)
+[Shape Analysis Playlist](https://www.youtube.com/watch?v=MHBxFC4q0GU&list=PLhiMtjT3auc9PZC6tQ1bi6AbNfMzcEwHZ&index=1&t=679s)
 
 These videos are in Persian, soon I will present them in English.
