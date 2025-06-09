@@ -4,7 +4,7 @@ This project is licensed under a custom **Academic Non-Commercial License (ANCL)
 
 📌 Use is permitted for **academic and research purposes only**.  
 🚫 **Commercial use is strictly prohibited** without prior written permission.  
-© 2025 Said Mousa Sajadi
+© 2025 [Said Mousa Sajadi]
 
 # Shape_Analysis
 This suite is written to work with shape analysis parameters. You can simply download it as a Zip file and check the codes:
